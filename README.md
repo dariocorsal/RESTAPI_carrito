@@ -1,12 +1,3 @@
-CENTRO DE ENSEÑANZA TÉCNICA Y SUPERIOR
-Ingeniería en Ciencias Computacionales
-Desarrollo Para Plataformas Heterogéneas
-Creación API CRUD – Simple
-Alumnos:
-Darío Córdova S.
-40754
-Mexicali, Baja California, a 4 de febrero de 2025
-
 RESTAPI- Carrito de Compras “Físico”
 Este proyecto es una API REST sencilla para un carrito de compras que permite agregar productos, modificar cantidades, eliminar productos y vaciar el carrito. Se usó Node.js, Express y MongoDB (con Mongoose) para su desarrollo.
 Uso del API
